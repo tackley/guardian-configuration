@@ -116,7 +116,7 @@
     <repositories>
         <repository>
             <id>guardian-github-releases</id>
-            <url>http://tackley.github.com/maven/repo-releases</url>
+            <url>https://tackley.github.com/maven/repo-releases</url>
         </repository>
     </repositories>
 
